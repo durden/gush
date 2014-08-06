@@ -11,4 +11,4 @@ pip install gush
 Use
 ---
 
-gush <url>
+`gush <url>`
